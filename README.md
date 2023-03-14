@@ -1,14 +1,8 @@
 # COMP9517 Project
 
-## CV9517 - Group members
-
-|      NAME      | Student ID |
-|:--------------:|:----------:|
-|   Jia Zeng     |  z5263167  |
-|   Yifei Yue    |  z5392319  |
-|  Jiawei Zhang  |  z5171079  |
-|   Yuanpeng Lu  |  z5183720  |
-| Yihao Zhou     |  z5327558  |
+- Developed a real-time video tracking system using DeepSORT and YOLOv5 to accurately detect and track pedestrians, achieving a precision of 88.5% and a recall of 68.5%.
+- Implemented algorithms to analyze pedestrian behaviour over time, including counting the number of pedestrians walking in groups and alone, and tracking group formation and destruction.
+- Demonstrated the effectiveness of the tracking system through a MOTA score of 49.5%.
 
 ## Installation
 
